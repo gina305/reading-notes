@@ -1,7 +1,6 @@
 # Code 201 Reading Notes
 
 ## Table of contents
-
 ---
 See the table of contents below for information about this project.
 
