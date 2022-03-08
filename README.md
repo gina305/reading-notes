@@ -4,7 +4,7 @@
 ---
 See the table of contents below for information about this project.
 
-* Assignment Read: 01 - [Introductory HTML and JavaScript](https://github.com/gina305/Reading-Notes/blob/main/Reading%20Journals/Read:%2002%20-%20HTML%20Text%2C%20CSS%20Introduction%2C%20and%20Basic%20JavaScript%20Instructions.md)
+* Assignment Read: 01 - [Introductory HTML and JavaScript](https://github.com/gina305/Reading-Notes/blob/main/Reading%20Journals/class-01.md)
 * Assignment Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
 * Assignment Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
 * Assignment Read: 04 - HTML Links, CSS Layout, JS Functions
