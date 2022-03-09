@@ -1,4 +1,4 @@
-# Assignment Read: 01 - Introductory HTML and JavaScript
+# Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
 
 ## About Lists
 HTML lists allow you to display a group of related items in the form of lists. Lists can be ordered (noted by ```<ol>```), unordered (noted by ```<ul>```) or definition list (noted by ```<dl>```).
