@@ -5,10 +5,6 @@ HTML lists allow you to display a group of related items in the form of lists. L
 
 List elements contain list items (noted by ```<li>```) that define the contents of a list. 
 
-Here is a visual example of how lists can be used:
-
-![](<https://drive.google.com/file/d/1g68CxLZfCbaKWpM9HQW5FQdUf30-nnmX/view?usp=sharing>)
-
 ## About Boxes
 Each element in html lives in it's own box on which you can style using CSS. You can do things like change text color, border color and so on. This is done through applying CSS to each box to get the desired visual appearance.
 
