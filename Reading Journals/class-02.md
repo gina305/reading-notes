@@ -4,6 +4,7 @@
 
 HTML uses tags to organize information on a web page. Tags are also referred to as markup or elements. They carry attributes that describe the content presented on the web page. The current version of HTML is HTML5. HTML5 uses can either be structural or semantic tags/elements. Examine the table below for the difference between structural markup and semantic markup.
 
+Here is an example of ho
 | Command | Structural Markup | Semantic Markup
 | --- | --- | --- |
 | WHAT | Structural markup is used to describe headings and paragraphs | Semantic markup provides additional information about the structural markup presented on the page. |
