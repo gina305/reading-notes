@@ -1,4 +1,4 @@
-# Assignment Read: 01 - Introductory HTML and JavaScript
+# Read: 01 - Introductory HTML and JavaScript
 
 ## About HTML
 

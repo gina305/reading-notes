@@ -1,4 +1,4 @@
-# Readings: HTML Links, JS Functions, and Intro to CSS Layout
+# Read 04: HTML Links, JS Functions, and Intro to CSS Layout
 
 ## HTML Links & Layout
 
