@@ -10,7 +10,7 @@ See the table of contents below for information about this project.
 * [Assignment Read: 04 - HTML Links, CSS Layout, JS Functions](./Reading-Journals/class-04.md)
 * [Assignment Read: 05 - HTML Images; CSS Color & Text](./Reading-Journals/class-05.md)
 * [Assignment Read: 06 - JS Object Literals; The DOM](./Reading-Journals/class-06.md) 
-* Assignment Read: 07 - HTML Tables; JS Constructor Functions
+* [Assignment Read: 07 - HTML Tables; JS Constructor Functions](./Reading-Journals/class-07.md)
 * Assignment Read: 08 - More CSS Layout
 * [Assignment Read: 09 - Forms and Events](./Reading-Journals/class-09.md)
 * Assignment Read: 10 - JS Debugging
