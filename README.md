@@ -13,8 +13,8 @@ See the table of contents below for information about this project.
 * [Assignment Read: 07 - HTML Tables; JS Constructor Functions](./Reading-Journals/class-07.md)
 * [Assignment Read: 08 - More CSS Layout](./Reading-Journals/class-08.md)
 * [Assignment Read: 09 - Forms and Events](./Reading-Journals/class-09.md)
-* Assignment Read: 10 - JS Debugging
-* Assignment Read: 11 - Assorted Topics
+* [Assignment Read: 10 - JS Debugging](./Reading-Journals/class-10.md)
+* [Assignment Read: 11 - Assorted Topics](./Reading-Journals/class-11md)
 * Assignment Read: 12 - Docs for the HTML Element & Chart.js
 * Assignment Read: 13 - Local Storage
 * Assignment Read: 14a - CSS Transforms, Transitions, and Animations
