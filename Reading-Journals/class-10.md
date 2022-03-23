@@ -13,9 +13,9 @@ To find errors, you can use:
 * Browser developer tools to inspect your webpage for information and errors (such as Google's built-in inspect tool).
 * Use conditional breakpoints such as a breakpoint defined with the debugger keyword to identify whether a condition is met or not.
 * Use the console.assert( ) method to test whether an expression is met. Also other console methods such as:
- * '''console.info( )''',
- * '''console.warn( )''',
- *'''console.error( )''', etc…
+ **-** console.info( )
+ **-** console.warn( )
+ **-** console.error( ), etc…
 To make it easier to find errors in your code, what should you understand about code execution?
 
 ## How to identify errors?
