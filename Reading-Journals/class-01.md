@@ -78,3 +78,7 @@ Before you use design a web page, consider your target audience's preference? Fo
 * Use sitemap- Sitemaps show how the pages should be organized. 
 * Use Wireframes- Wireframes is a sketch of how you expect your site to look and depicts how you intend to organize information on your page.
 * Keep the content on your webpage clear, concise and interactive. Don't overdo your page design with unnecessary features that may confuse your visitors.
+
+#### CSS Element Defaults
+https://www.w3schools.com/cssref/css_default_values.asp
+
