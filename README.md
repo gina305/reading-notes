@@ -17,8 +17,8 @@ See the table of contents below for information about this project.
 * [Assignment Read: 11 - Assorted Topics](./Reading-Journals/class-11.md)
 * [Assignment Read: 12 - Docs for the HTML Element & Chart.js](./Reading-Journals/class-12.md)
 * [Assignment Read: 13 - Local Storage](./Reading-Journals/class-13.md)
-* Assignment Read: 14a - CSS Transforms, Transitions, and Animations
-* Assignment Read: 14b - What Google Learned About Teams
+* [Assignment Read: 14a - CSS Transforms, Transitions, and Animations](./Reading-Journals/class-14a.md)
+* [Assignment Read: 14b - What Google Learned About Teams](./Reading-Journals/class-14b.md)
 
 __________________________________________________________________
 
