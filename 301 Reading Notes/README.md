@@ -2,11 +2,11 @@
 
 ## Table of contents
 ---
-Assignment Read: 01 - Introduction to React and Components
-Assignment Read: 02 - Readings: State and Props
-Assignment Read: 03 - Passing Functions as Props
-Assignment Read: 04 - Readings: React and Forms
-Assignment Read: 05 - Putting it all together
+* Assignment Read: 01 - Introduction to React and Components
+* Assignment Read: 02 - Readings: State and Props
+* Assignment Read: 03 - Passing Functions as Props
+* Assignment Read: 04 - Readings: React and Forms
+* Assignment Read: 05 - Putting it all together
 
 __________________________________________________________________
 
