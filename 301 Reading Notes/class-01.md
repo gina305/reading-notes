@@ -1,4 +1,4 @@
-# Readings: Introduction to React and Components
+# Introduction to React and Components
 
 ## Component-Based Architecture
 
