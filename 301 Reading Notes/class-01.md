@@ -20,7 +20,8 @@ The main advantage of using a component-based architecture is that  it provides:
 1. What is “props” short for?
 "Props" stands for properties. Properties are object arguments that contain data for use by a component.
 2. How are props used in React?
-In React, components use props and JSX to render elements to a page. For example, you can define a component that renders a user’s name based on the “name” property passed into the “Welcome” component. With this component, a custom welcome message will be displayed on the webpage. Retrieved from https://reactjs.org/docs/components-and-props.html
+In React, components use props and JSX to render elements to a page. For example, you can define a component that renders a user’s name based on the “name” property passed into the “Welcome” component. With this component, a custom welcome message will be displayed on the webpage.
+
 | ![React Components](./imgs/Hello%20World%20in%20React%202022-04-09%2022-37-24.png) |
 |:--:|
 | <b>Image Credits - reactjs.org. Retrieved from: https://reactjs.org/docs/components-and-props.html</b>|
