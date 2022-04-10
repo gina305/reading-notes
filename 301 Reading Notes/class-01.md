@@ -27,4 +27,4 @@
 | <b>Image Credits - reactjs.org. Retrieved from: https://reactjs.org/docs/components-and-props.html</b>|
 
 3. What is the flow of props?
-Props information flow from parents to children in React.
+- Props information flow from parents to children in React.
