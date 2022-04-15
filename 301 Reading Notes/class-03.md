@@ -113,7 +113,7 @@ The increment function iterates over the people array and and increments the cou
 * To call a function declared from a child component, ithe function must be passed to the child then called from the child component
 
 --------------
-References: [Binding Functions(https://reactjs.org/docs/faq-functions.html)
+References: [Binding Functions](https://reactjs.org/docs/faq-functions.html)
 
 [Child calling a Method From Parent](https://stackoverflow.com/questions/37949981/call-child-method-from-parent)
 
