@@ -34,7 +34,7 @@ ReactDOM.render(
 
 ```
 
-3. Each list item needs a unique _____.
+3. Each list item needs a unique key.
 
 4. What is the purpose of a key?
 * A “key” is a special string attribute you need to include when creating lists of elements.  It helps React identify items that have changed, been added or removed. Keys should be given to the elements inside the array to give the elements a stable identity. In the example above, you code include a key using the following:
