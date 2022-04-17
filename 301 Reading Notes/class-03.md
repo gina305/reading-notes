@@ -48,7 +48,7 @@ ReactDOM.render(
 
 ## The Spread Operator
 1. What is the spread operator?
-* In React, the spread operator (...) allows us to quickly copy all or part of an existing array or object into another array or object. With objects, if there is a conflict in key/values in an object, then the last object merged will apply.
+* The spread operator (...) allows us to quickly copy all or part of an existing array or object into another array or object. With objects, if there is a conflict in key/values in an object, then the last object merged will apply.
 
 2. List 4 things that the spread operator can do.
 * The spread operator can add items to arrays, combine multiple arrays, combine multiple objects, and spread an array out into a function’s arguments.
