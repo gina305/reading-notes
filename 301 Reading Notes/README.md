@@ -8,8 +8,8 @@
 * [Assignment Read: 04 - Readings: React and Forms](./class-04.md)
 * [Assignment Read: 05 - Putting it all together](./class-05.md)
 * [Assignment Read: 06 - Readings: Node.js](./class-06.md)
-* [Assignment Read: 07 - REST](./class-06.md)
-* [Assignment Read: 08 - APIs](./class-07.md)
+* [Assignment Read: 07 - REST](./class-07.md)
+* [Assignment Read: 08 - APIs](./class-08.md)
 * [Assignment Read: 09 - Functional Programming](./class-09.md)
 [Assignment Read: 10 -  In Memory Storage](./class-010.md)
 
