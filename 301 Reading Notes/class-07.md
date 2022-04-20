@@ -19,11 +19,7 @@ Machines communicate using bits and bytes, instead of actual words like us human
 ## API Keys
 Request a personal API key from the following APIs.
 
-Geocoding API
-- Did you get your API key? Yes.
-Weather Bit API
-- Did you get your API key? Yes.
-Yelp API Docs
-- Did you get your API key? Yes.
-The Movie DB API Docs
-- Did you get your API key? Yes.
+* Geocoding API: Did you get your API key? Yes.
+* Weather Bit API: Did you get your API key? Yes.
+* Yelp API Docs: Did you get your API key? Yes.
+* The Movie DB API Docs: Did you get your API key? Yes.
