@@ -11,7 +11,7 @@
 * [Assignment Read: 07 - REST](./class-07.md)
 * [Assignment Read: 08 - APIs](./class-08.md)
 * [Assignment Read: 09 - Functional Programming](./class-09.md)
-[Assignment Read: 10 -  In Memory Storage](./class-010.md)
+[Assignment Read: 10 -  In Memory Storage](./class-10.md)
 
 __________________________________________________________________
 
