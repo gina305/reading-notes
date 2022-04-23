@@ -13,6 +13,13 @@
 * [Assignment Read: 09 - Functional Programming](./class-09.md)
 * [Assignment Read: 10 -  In Memory Storage](./class-10.md)
 
+-----------
+* [Assignment Read: 11 - Mongo and Mongoose](./class-11.md)
+* [Assignment Read: 12 - CRUD (create, read, update, and delete)](./class-12.md)
+* [Assignment Read: 13 -  More CRUD (create, read, update, and delete)](./class-13.md)
+* [Assignment Read: 14 - Diversity & Inclusion in the Tech Industry](./class-14.md)
+* [Assignment Read: 15 -  Authentication](./class-15.md)
+
 __________________________________________________________________
 
 > The more that you **read**, the more things you will know. The more that you know, the more places you'll go. 
