@@ -7,6 +7,7 @@
 * [Assignment Read: 03 - Passing Functions as Props](./class-03.md)
 * [Assignment Read: 04 - Readings: React and Forms](./class-04.md)
 * [Assignment Read: 05 - Putting it all together](./class-05.md)
+__________________________________________________________________
 * [Assignment Read: 06 - Readings: Node.js](./class-06.md)
 * [Assignment Read: 07 - REST](./class-07.md)
 * [Assignment Read: 08 - APIs](./class-08.md)
