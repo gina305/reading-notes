@@ -44,5 +44,5 @@ What does the word ‘debugger’ do in your code?
 
 
 References
-JavaScript errors reference on MDN
-Understanding the JavaScript Call Stack
+* https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors
