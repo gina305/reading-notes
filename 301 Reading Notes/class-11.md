@@ -25,3 +25,8 @@ Which type of database is best for hierarchical data storage?
 
 Which type of database is best for scalability?
 * It depends. SQL databases are suitable if you want to scale vertically. However, NoSQL databases are suitable for when you need to scale horizontally.
+
+
+References:
+https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool
+https://www.youtube.com/watch?v=ZS_kXvOeQ5Y
