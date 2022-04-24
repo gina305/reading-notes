@@ -41,3 +41,8 @@ What is a breakpoint?
 
 What does the word ‘debugger’ do in your code?
 * The keyword debugger invokes any available debugging functionality, such as setting a breakpoint.
+
+
+References
+JavaScript errors reference on MDN
+Understanding the JavaScript Call Stack
