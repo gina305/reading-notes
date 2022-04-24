@@ -1,5 +1,7 @@
+# Mongo and Mongoose
 
 
+### Differences between SQL and NoSQL databases:
 
 | SQL | NpSQL |
 | --- | --- |
@@ -28,5 +30,5 @@ Which type of database is best for scalability?
 
 
 References:
-https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool
-https://www.youtube.com/watch?v=ZS_kXvOeQ5Y
+* https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool
+* https://www.youtube.com/watch?v=ZS_kXvOeQ5Y
