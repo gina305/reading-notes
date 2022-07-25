@@ -4,7 +4,7 @@
 ---
 * [Read: 01 - Introduction to React and Components](./class-01.md)
 * [Read: 02 - Readings: State and Props](./class-02.md)
-* [Read: 03 - Passing Functions as Props](./class-03.md)
+* [FileIO & Exceptions](./class-03.md)
 * [Read: 04 - Readings: React and Forms](./class-04.md)
 * [Read: 05 - Putting it all together](./class-05.md)
 __________________________________________________________________
