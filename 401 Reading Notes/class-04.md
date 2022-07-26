@@ -69,3 +69,16 @@ def test_case2(case_prompt):
 
 ### Tools/Modules
 pytest - a library for testing Python code. Great for TDD (Test-Driven Development)
+
+
+### What’s the one thing I bring to this career (and a potential employer) that nobody else can?
+
+Solving problems with a security-first mindset is something unique I can bring to this career field. Working in the cyber security field allows me to use my experiene and exposue to contribute to the secure development of code. Most web application vulnerabilities are code related and can be refactored/restructured to facilitate remediation.
+
+### What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
+
+Three things I'll  do to "un-stuck" myself are:
+
+* Take a break - This will help me reset my mind and get a fresher look at the code
+* Focus on "Why" a piece of  code is failing'
+* Break down code logic - Focus on the particular area (i.e. function, loop, try/catch statement) at a time
