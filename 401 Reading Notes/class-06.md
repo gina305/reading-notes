@@ -1,42 +1,33 @@
-# NODE.JS
+# Ten Thousand Game 1
 
-1. What is node.js?
-- Node is a Javascript runtime program that is used to build scalable network applications.
+1. Risk Analysis:
+- The process of identifying the risks in applications or software
 
-2. In your own words, what is Chrome’s V8 JavaScript Engine?
-- Chrome’s V8 JavaScript Engine is essentially the compiler that translates entire JavaScript program to native machine code for execution.
-
-3. What does it mean that node is a JavaScript runtime?
+2. Risk Identification:
+- Identify risks such as business risk, software risk, testing risk, security risk, etc.
+3. Risk Assessment
 - It means that node has a program lifecycle that, when compiled, invokes built-in Javascript libraries and objects
 
-4. What is npm?
- - NPM (or Node Package Manager) is is an online repository for publishing open-source Node.js projects. In the context of coding, it is a command-line utility for interacting with the Node.js repository. 
+## Test Coverage
+Test coverage is a useful tool for finding untested parts of a codebase. Keep in mind that:
+* high coverage numbers are too easy to reach with low quality testing (i.e. assertion free testing).
 
-5. What version of node are you running on your machine?
-- v17.8.0
+* 
 
-6. What version of npm are you running on your machine?
-- version 8.5.5
+## Random Module in Python
+You can use the randint function Randint accepts two parameters: a lowest and a highest number. Generate integers between 1,5.
 
-7. What command would you type to install a library/package called ‘jshint’?
-- npm install jshint
+The following example shows how to import the random function and use it to generate a random number
+```python
+import random  #Import thr random function
 
-8. What is node used for?
-You can use node for for package installation, version management, and dependency management. 
+#Define a list of names
+names = ['Benny', 'Dwight', 'Deonte', 'Davuda']
 
-## 6 Reasons for Pair Programming
+#Generate a random number between 0 and the length of the array minus 1(inclusive)
+num = random.randint(0, names.__len__() - 1)
 
-1. What are the 6 reasons for pair programming?
-- Pair Programming has several uses in improving code. It allows users to:
-  * Code more efficiently
-  * Code collaboratively
-  * Learn from fellow students/peers
-  * Improve their social skills
-  * Improve job readiness
-  * Improve readiness for work environment
+# Print a random item from the list
+print(names[num])
 
-2. In your experience, which of these reasons have you found most beneficial?
-- The most beneficial aspect of pair programming I have found is the efficiency of code and being able to learn from peers. Sometimes coding alone can cause tunnel vision and take up time on issues that a colleague can help you get past more quickly. Also, being able to collaborate with a colleague reminds you of forgotten concepts and allows you to learn new things about the syntax that you may have not known before.
-
-3. How does pair programming work?
-- Pair programming works through the use of two roles:  the driver and the navigator. The driver is responsible for typing the code. The navigator is responsible for reviewing the overall "strategic" direction of the code and coming up with ideas for improvements. Typically, they roles switch between the two programmers during a pair programming session.
+```
