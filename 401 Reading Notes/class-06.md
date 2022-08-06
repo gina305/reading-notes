@@ -31,3 +31,11 @@ num = random.randint(0, names.__len__() - 1)
 print(names[num])
 
 ```
+
+__________
+# Tuple Assignment, Packing, and Unpacking
+When unpacking, the number of variables on the left must match the number of values in the tuple:
+
+```python
+
+```
