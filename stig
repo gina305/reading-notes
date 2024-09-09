@@ -1,0 +1,26 @@
+stig_data = {
+    "stig": {
+        "id": "V-204419",
+        "title": "The Red Hat Enterprise Linux operating system must be configured so that passwords are restricted to a 24 hours/1 day minimum lifetime.",
+        "severity": "medium",
+        "description": "To meet password policy requirements, the operating system must ensure that passwords cannot be changed more frequently than once every 24 hours.",
+        "requirements": {
+            "check": {
+                "description": "Verify the operating system enforces a 24 hours/1 day minimum password lifetime.",
+                "command": "grep -i 'PASS_MIN_DAYS' /etc/login.defs"
+            },
+            "fix": {
+                "description": "Configure the system to enforce a 24 hours/1 day minimum password lifetime.",
+                "command": "chage --mindays 1 [username]"
+            }
+        }
+    }
+}
+
+# Accessing specific fields in the nested JSON
+stig_id = stig_data['stig']['id']
+stig_title = stig_data['stig']['title']
+stig_check_command = stig_data['stig']['requirements']['check']['command']
+stig_fix_command = stig_data['stig']['requirements']['fix']['command']
+
+(stig_id, stig_title, stig_check_command, stig_fix_command)
