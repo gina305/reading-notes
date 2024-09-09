@@ -1,26 +1,30 @@
+import operator
+
+# Example JSON with two strings
 stig_data = {
-    "stig": {
-        "id": "V-204419",
-        "title": "The Red Hat Enterprise Linux operating system must be configured so that passwords are restricted to a 24 hours/1 day minimum lifetime.",
-        "severity": "medium",
-        "description": "To meet password policy requirements, the operating system must ensure that passwords cannot be changed more frequently than once every 24 hours.",
-        "requirements": {
-            "check": {
-                "description": "Verify the operating system enforces a 24 hours/1 day minimum password lifetime.",
-                "command": "grep -i 'PASS_MIN_DAYS' /etc/login.defs"
-            },
-            "fix": {
-                "description": "Configure the system to enforce a 24 hours/1 day minimum password lifetime.",
-                "command": "chage --mindays 1 [username]"
-            }
-        }
+    "stig_1": {
+        "title": "The Red Hat Enterprise Linux operating system must be configured...",
+        "severity": "medium"
+    },
+    "stig_2": {
+        "title": "The system must be configured to disable root login...",
+        "severity": "high"
     }
 }
 
-# Accessing specific fields in the nested JSON
-stig_id = stig_data['stig']['id']
-stig_title = stig_data['stig']['title']
-stig_check_command = stig_data['stig']['requirements']['check']['command']
-stig_fix_command = stig_data['stig']['requirements']['fix']['command']
+# Define the comparison operator (in this case, checking if the first string is 'greater' than the second)
+compare_op = operator.gt  # Can be operator.eq, operator.lt, etc.
 
-(stig_id, stig_title, stig_check_command, stig_fix_command)
+# Loop through the JSON and compare the 'title' fields of both STIGs
+for stig_id, stig_info in stig_data.items():
+    title = stig_info['title']
+    print(f"{stig_id}: {title}")
+
+# Example comparison between the titles of the two STIGs
+title_1 = stig_data['stig_1']['title']
+title_2 = stig_data['stig_2']['title']
+
+if compare_op(title_1, title_2):
+    print(f"\nTitle of STIG 1 is greater than Title of STIG 2.")
+else:
+    print(f"\nTitle of STIG 1 is not greater than Title of STIG 2.")
